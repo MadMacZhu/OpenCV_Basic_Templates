@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconvolve.a  CMakeFiles/convolve.dir/convolve.cpp.o
+/usr/bin/ranlib libconvolve.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcvmat.a  CMakeFiles/cvmat.dir/cvmat.cpp.o
+/usr/bin/ranlib libcvmat.a

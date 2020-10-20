@@ -1,0 +1,2 @@
+/usr/bin/ar qc libshowimg.a  CMakeFiles/showimg.dir/showimg.cpp.o
+/usr/bin/ranlib libshowimg.a
